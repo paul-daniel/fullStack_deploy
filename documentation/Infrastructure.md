@@ -10,7 +10,6 @@
 - **Elastic Beanstalk**
   - provides the backend hosting
 
-
 ## Infrastracture Schema
 
-![Infrastructure Schema](./images/architecture.png)
+![Infrastructure Schema](./image/architecture.png)

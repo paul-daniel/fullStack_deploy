@@ -10,6 +10,4 @@ The pipeline is setup and connected with this GitHub repository in CircleCI.
 4. FrontEnd & BackEnd build
 5. FrontEnd & BackEnd deploy
 
-## Schema
-
-![Pipeline Schema](./images/pipeline.png)
+![Pipeline Schema](./image/pipeline_process.png)
