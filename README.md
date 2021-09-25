@@ -4,7 +4,7 @@ This project is part of the Udacity FullStack JavaScript nanodegree. The code wa
 
 The project is available at
 
-http://udagramfrontendbucket.s3-website-us-east-1.amazonaws.com
+http://udagramfront.s3-website.eu-west-3.amazonaws.com
 
 See additional documentation in the documentation folder.
 
