@@ -10,9 +10,13 @@ See additional documentation in the documentation folder.
 
 ## Configuration Screenshots
 
-### Elastic Beanstalk Environment
+### Circleci Environment
 
-![Elastic Beanstalk Environment](./documentation/image/elasticbeanstalk_env.JPG)
+![Elastic Beanstalk Environment](./documentation/image/circleci_env.png)
+
+### Elastic beanstalk console
+
+![Media eb](./documentation/image/elasticbeanstalk.JPG)
 
 ### FrontEnd S3 Bucket
 
@@ -29,10 +33,6 @@ See additional documentation in the documentation folder.
 ### CircleCI Pipeline
 
 ![CircleCI Pipeline](./documentation/image/pipeline.png)
-
-added secrets here
-
-![CircleCI Pipeline environment variables](./documentation/image/cercleci_env.JPG)
 
 Schema
 
