@@ -1,6 +1,6 @@
 # Udagram
 
-This project is part of the Udacity FullStack JavaScript nanodegree. The code was given as a starter project and the task was to employ and adapt the code to get it working and hosted on AWS.
+This project is part of the Udacity FullStack JavaScript nanodegree.
 
 The project is available at
 
